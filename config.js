@@ -4,24 +4,24 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	zenz: 'https://zenzapi.xyz',
+	zenz: 'https://zenzapis.xyz',
 	dapa: 'https://dapuhy.xyz'
 }
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': '7A012A0F7751',
+	'https://zenzapis.xyz': '91fd4f297f70',
 	'https://dapuhy.xyz': 'piceg'
 }
 
 // Other
-global.owner = ['6281808032100','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
+global.owner = ['6281808032100']
+global.premium = ['6281808032100']
+global.botname = 'Anu Bot'
 global.ownername = 'burhansyam'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
+global.packname = 'Anu Bot'
 global.ytchannel = 'https://youtu.be'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -43,7 +43,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = '@bro'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
