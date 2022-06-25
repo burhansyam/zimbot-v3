@@ -667,7 +667,7 @@ async function cuaca(wilayah) {
 }
 async function FilmApik23(querry) {
 	try{
-	const link = await axios.get(`https://filmapik.website/?s=${querry}`);
+	const link = await axios.get(`https://5.182.209.205/?s=${querry}`);
 	const c = cheerio.load(link.data)
 	let Id = []
 	c('#main > div > div.main-content.main-category > div.movies-list-wrap.mlw-category > div.movies-list.movies-list-full ').each(function (a, b) {
