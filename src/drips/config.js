@@ -1,26 +1,4 @@
 
-// ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
-//▮
-//▮FORK AND DON'T FORGET TO GIVE A STAR
-//▮
-//▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
-//▮
-//▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
-//▮
-//╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-//
-//┏━━━━━━━━━━━━━━━━━━━━━━━━━
-//┃THIS SOFTWARE INCLUDES 
-//┃SOME ENCRYPTED FILES
-//┃
-//┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DIKA ARDNT
-//┗━━━━━━━━━━━━━━━━━━━━━━━━━
-//
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -37,10 +15,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','447441437150']
+global.owner = ['6281808032100']
 global.premium = ['27634090203','447441437150']
 global.botname = 'ZIM BOT INC'
-global.ownername ='DRIPS'
+global.ownername ='burhansyam'
 global.packname = 'ZIM BOT INC'
 global.quoted = 'https://www.youtube.com/c/DRIPSOFC'
 global.monayawal = '100000'
