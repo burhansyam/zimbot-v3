@@ -182,7 +182,7 @@ exports.metronews = async () => {
 }
 exports.asupanfilm = async (query) => {
 	return new Promise((resolve) => {
-		axios.get(`https://asupanfilm.link/?search=${query}`)
+		axios.get(`https://benangmerah.my.id/?search=${query}`)
 			.then(({
 				data
 			}) => {
@@ -204,7 +204,7 @@ exports.asupanfilm = async (query) => {
 					thumb.push($(b).attr('src').split('UX67_CR0,0,67,98_AL_')[0])
 				})
 				$('body > div > div > div.card-body.p-2 > ul > li > div > div > h6 > a').each(function(a, b) {
-					link.push('https://asupanfilm.link/' + $(b).attr('href'))
+					link.push('https://benangmerah.my.id/' + $(b).attr('href'))
 				})
 				for (let i = 0; i < judul.length; i++) {
 					result.push({
