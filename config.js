@@ -17,11 +17,11 @@ global.APIKeys = {
 // Other
 global.owner = ['6281808032100']
 global.premium = ['6281808032100']
-global.botname = 'Anu Bot'
+global.botname = 'Udu Bot'
 global.ownername = 'burhansyam'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'Anu Bot'
+global.packname = 'Udu Bot'
 global.ytchannel = 'https://youtu.be'
 global.monayawal = '100000'
 global.darahawal = '100'
